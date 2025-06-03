@@ -34,8 +34,8 @@
 #### Travail demandé :
     Etablir une architecture technique du projet
     Etablir un diagramme de classes qui montre les entités, la couche DAO et la couche métier.
-    ![image](https://github.com/user-attachments/assets/f5e8eb0c-02b9-4441-9909-11bc31767a59)
-    ![image](https://github.com/user-attachments/assets/6dd1f273-25cb-425d-b499-58381eb706c0)
+![image](https://github.com/user-attachments/assets/f5e8eb0c-02b9-4441-9909-11bc31767a59)
+![image](https://github.com/user-attachments/assets/6dd1f273-25cb-425d-b499-58381eb706c0)
     Créer un projet SpringBoot qui contient les éléments suivants :
     • Les entités
     • La couche DAO (Interfaces Spring data)
