@@ -31,16 +31,19 @@
     • La couche Métier
     • La couche Web basée sur MVC coté Serveur en utilisant Thymeleaf.
     La sécurité est basée sur Spring Security
+![image](https://github.com/user-attachments/assets/dc297b4b-e081-4bd9-a5ca-b81c3da55960)
+
 #### Travail demandé :
     Etablir une architecture technique du projet
     Etablir un diagramme de classes qui montre les entités, la couche DAO et la couche métier.
 ![image](https://github.com/user-attachments/assets/f5e8eb0c-02b9-4441-9909-11bc31767a59)
 ![image](https://github.com/user-attachments/assets/6dd1f273-25cb-425d-b499-58381eb706c0)
-    Créer un projet SpringBoot qui contient les éléments suivants :
-    • Les entités
-    • La couche DAO (Interfaces Spring data)
-    • La couche métier (Interfaces et implémentations)
-    • La couche web :
-    • Les contrôleurs Spring MVC
-    • Les Vue basée sur Thymeleaf
-    Sécuriser l’application en utilisant un système d’authentification basé sur Spring Security
+
+        Créer un projet SpringBoot qui contient les éléments suivants :
+        • Les entités
+        • La couche DAO (Interfaces Spring data)
+        • La couche métier (Interfaces et implémentations)
+        • La couche web :
+        • Les contrôleurs Spring MVC
+        • Les Vue basée sur Thymeleaf
+        Sécuriser l’application en utilisant un système d’authentification basé sur Spring Security
